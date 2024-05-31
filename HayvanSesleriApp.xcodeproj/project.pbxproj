@@ -9,13 +9,33 @@
 /* Begin PBXBuildFile section */
 		AE4E5CAC2BEDFD630088B51E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE4E5CAB2BEDFD630088B51E /* AppDelegate.swift */; };
 		AE4E5CAE2BEDFD630088B51E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE4E5CAD2BEDFD630088B51E /* SceneDelegate.swift */; };
-		AE4E5CB02BEDFD630088B51E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE4E5CAF2BEDFD630088B51E /* ViewController.swift */; };
 		AE4E5CB32BEDFD630088B51E /* Base in Resources */ = {isa = PBXBuildFile; fileRef = AE4E5CB22BEDFD630088B51E /* Base */; };
 		AE4E5CB52BEDFD640088B51E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AE4E5CB42BEDFD640088B51E /* Assets.xcassets */; };
 		AE4E5CB82BEDFD640088B51E /* Base in Resources */ = {isa = PBXBuildFile; fileRef = AE4E5CB72BEDFD640088B51E /* Base */; };
 		AE4E5CC32BEDFD650088B51E /* HayvanSesleriAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE4E5CC22BEDFD650088B51E /* HayvanSesleriAppTests.swift */; };
 		AE4E5CCD2BEDFD650088B51E /* HayvanSesleriAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE4E5CCC2BEDFD650088B51E /* HayvanSesleriAppUITests.swift */; };
 		AE4E5CCF2BEDFD650088B51E /* HayvanSesleriAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE4E5CCE2BEDFD650088B51E /* HayvanSesleriAppUITestsLaunchTests.swift */; };
+		AE4E5CDE2BEDFF2E0088B51E /* SecondMainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE4E5CDD2BEDFF2E0088B51E /* SecondMainViewController.swift */; };
+		AE4E5CE02BEDFF540088B51E /* FirstMainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE4E5CDF2BEDFF540088B51E /* FirstMainViewController.swift */; };
+		AE4E5CE22BEE00560088B51E /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE4E5CE12BEE00560088B51E /* MainViewController.swift */; };
+		AE802BD02BEEB7ED00EBC1EA /* fil.wav in Resources */ = {isa = PBXBuildFile; fileRef = AE802BCD2BEEB7ED00EBC1EA /* fil.wav */; };
+		AE802BD12BEEB7ED00EBC1EA /* aslan.wav in Resources */ = {isa = PBXBuildFile; fileRef = AE802BCE2BEEB7ED00EBC1EA /* aslan.wav */; };
+		AE802BD22BEEB7ED00EBC1EA /* maymun.wav in Resources */ = {isa = PBXBuildFile; fileRef = AE802BCF2BEEB7ED00EBC1EA /* maymun.wav */; };
+		AE802BDB2BEED1AC00EBC1EA /* penguen.wav in Resources */ = {isa = PBXBuildFile; fileRef = AE802BD32BEED1AC00EBC1EA /* penguen.wav */; };
+		AE802BDC2BEED1AC00EBC1EA /* zürafa.wav in Resources */ = {isa = PBXBuildFile; fileRef = AE802BD42BEED1AC00EBC1EA /* zürafa.wav */; };
+		AE802BDD2BEED1AC00EBC1EA /* flamingo.wav in Resources */ = {isa = PBXBuildFile; fileRef = AE802BD52BEED1AC00EBC1EA /* flamingo.wav */; };
+		AE802BDE2BEED1AC00EBC1EA /* köpek.wav in Resources */ = {isa = PBXBuildFile; fileRef = AE802BD62BEED1AC00EBC1EA /* köpek.wav */; };
+		AE802BDF2BEED1AC00EBC1EA /* kedi.wav in Resources */ = {isa = PBXBuildFile; fileRef = AE802BD72BEED1AC00EBC1EA /* kedi.wav */; };
+		AE802BE02BEED1AC00EBC1EA /* kaplan.wav in Resources */ = {isa = PBXBuildFile; fileRef = AE802BD82BEED1AC00EBC1EA /* kaplan.wav */; };
+		AE802BE12BEED1AC00EBC1EA /* panda.wav in Resources */ = {isa = PBXBuildFile; fileRef = AE802BD92BEED1AC00EBC1EA /* panda.wav */; };
+		AE802BE22BEED1AC00EBC1EA /* zebra.wav in Resources */ = {isa = PBXBuildFile; fileRef = AE802BDA2BEED1AC00EBC1EA /* zebra.wav */; };
+		AE802BE82BEED73100EBC1EA /* balina.wav in Resources */ = {isa = PBXBuildFile; fileRef = AE802BE32BEED73100EBC1EA /* balina.wav */; };
+		AE802BE92BEED73100EBC1EA /* samur.wav in Resources */ = {isa = PBXBuildFile; fileRef = AE802BE42BEED73100EBC1EA /* samur.wav */; };
+		AE802BEA2BEED73100EBC1EA /* fok.wav in Resources */ = {isa = PBXBuildFile; fileRef = AE802BE52BEED73100EBC1EA /* fok.wav */; };
+		AE802BEB2BEED73100EBC1EA /* yunus.wav in Resources */ = {isa = PBXBuildFile; fileRef = AE802BE62BEED73100EBC1EA /* yunus.wav */; };
+		AE802BEC2BEED73100EBC1EA /* yengeç.wav in Resources */ = {isa = PBXBuildFile; fileRef = AE802BE72BEED73100EBC1EA /* yengeç.wav */; };
+		AE802BEF2BEEDCDE00EBC1EA /* fare.wav in Resources */ = {isa = PBXBuildFile; fileRef = AE802BEE2BEEDCDE00EBC1EA /* fare.wav */; };
+		AE87465D2BEF68D7003192FA /* GoogleMobileAds in Frameworks */ = {isa = PBXBuildFile; productRef = AE87465C2BEF68D7003192FA /* GoogleMobileAds */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -39,7 +59,6 @@
 		AE4E5CA82BEDFD630088B51E /* HayvanSesleriApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HayvanSesleriApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AE4E5CAB2BEDFD630088B51E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AE4E5CAD2BEDFD630088B51E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		AE4E5CAF2BEDFD630088B51E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		AE4E5CB22BEDFD630088B51E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		AE4E5CB42BEDFD640088B51E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AE4E5CB72BEDFD640088B51E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -49,6 +68,26 @@
 		AE4E5CC82BEDFD650088B51E /* HayvanSesleriAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HayvanSesleriAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AE4E5CCC2BEDFD650088B51E /* HayvanSesleriAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HayvanSesleriAppUITests.swift; sourceTree = "<group>"; };
 		AE4E5CCE2BEDFD650088B51E /* HayvanSesleriAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HayvanSesleriAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		AE4E5CDD2BEDFF2E0088B51E /* SecondMainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondMainViewController.swift; sourceTree = "<group>"; };
+		AE4E5CDF2BEDFF540088B51E /* FirstMainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstMainViewController.swift; sourceTree = "<group>"; };
+		AE4E5CE12BEE00560088B51E /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
+		AE802BCD2BEEB7ED00EBC1EA /* fil.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = fil.wav; sourceTree = "<group>"; };
+		AE802BCE2BEEB7ED00EBC1EA /* aslan.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = aslan.wav; sourceTree = "<group>"; };
+		AE802BCF2BEEB7ED00EBC1EA /* maymun.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = maymun.wav; sourceTree = "<group>"; };
+		AE802BD32BEED1AC00EBC1EA /* penguen.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = penguen.wav; sourceTree = "<group>"; };
+		AE802BD42BEED1AC00EBC1EA /* zürafa.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "zürafa.wav"; sourceTree = "<group>"; };
+		AE802BD52BEED1AC00EBC1EA /* flamingo.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = flamingo.wav; sourceTree = "<group>"; };
+		AE802BD62BEED1AC00EBC1EA /* köpek.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "köpek.wav"; sourceTree = "<group>"; };
+		AE802BD72BEED1AC00EBC1EA /* kedi.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = kedi.wav; sourceTree = "<group>"; };
+		AE802BD82BEED1AC00EBC1EA /* kaplan.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = kaplan.wav; sourceTree = "<group>"; };
+		AE802BD92BEED1AC00EBC1EA /* panda.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = panda.wav; sourceTree = "<group>"; };
+		AE802BDA2BEED1AC00EBC1EA /* zebra.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = zebra.wav; sourceTree = "<group>"; };
+		AE802BE32BEED73100EBC1EA /* balina.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = balina.wav; sourceTree = "<group>"; };
+		AE802BE42BEED73100EBC1EA /* samur.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = samur.wav; sourceTree = "<group>"; };
+		AE802BE52BEED73100EBC1EA /* fok.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = fok.wav; sourceTree = "<group>"; };
+		AE802BE62BEED73100EBC1EA /* yunus.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = yunus.wav; sourceTree = "<group>"; };
+		AE802BE72BEED73100EBC1EA /* yengeç.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "yengeç.wav"; sourceTree = "<group>"; };
+		AE802BEE2BEEDCDE00EBC1EA /* fare.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = fare.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +95,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AE87465D2BEF68D7003192FA /* GoogleMobileAds in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -99,9 +139,8 @@
 		AE4E5CAA2BEDFD630088B51E /* HayvanSesleriApp */ = {
 			isa = PBXGroup;
 			children = (
-				AE4E5CAB2BEDFD630088B51E /* AppDelegate.swift */,
-				AE4E5CAD2BEDFD630088B51E /* SceneDelegate.swift */,
-				AE4E5CAF2BEDFD630088B51E /* ViewController.swift */,
+				AE4E5CDB2BEDFEC00088B51E /* Delegate */,
+				AE4E5CDC2BEDFECE0088B51E /* MainViewController */,
 				AE4E5CB12BEDFD630088B51E /* Main.storyboard */,
 				AE4E5CB42BEDFD640088B51E /* Assets.xcassets */,
 				AE4E5CB62BEDFD640088B51E /* LaunchScreen.storyboard */,
@@ -127,6 +166,50 @@
 			path = HayvanSesleriAppUITests;
 			sourceTree = "<group>";
 		};
+		AE4E5CDB2BEDFEC00088B51E /* Delegate */ = {
+			isa = PBXGroup;
+			children = (
+				AE4E5CAB2BEDFD630088B51E /* AppDelegate.swift */,
+				AE4E5CAD2BEDFD630088B51E /* SceneDelegate.swift */,
+			);
+			path = Delegate;
+			sourceTree = "<group>";
+		};
+		AE4E5CDC2BEDFECE0088B51E /* MainViewController */ = {
+			isa = PBXGroup;
+			children = (
+				AE802BED2BEED8B200EBC1EA /* Sesler */,
+				AE4E5CE12BEE00560088B51E /* MainViewController.swift */,
+				AE4E5CDF2BEDFF540088B51E /* FirstMainViewController.swift */,
+				AE4E5CDD2BEDFF2E0088B51E /* SecondMainViewController.swift */,
+			);
+			path = MainViewController;
+			sourceTree = "<group>";
+		};
+		AE802BED2BEED8B200EBC1EA /* Sesler */ = {
+			isa = PBXGroup;
+			children = (
+				AE802BEE2BEEDCDE00EBC1EA /* fare.wav */,
+				AE802BE32BEED73100EBC1EA /* balina.wav */,
+				AE802BE52BEED73100EBC1EA /* fok.wav */,
+				AE802BE42BEED73100EBC1EA /* samur.wav */,
+				AE802BE72BEED73100EBC1EA /* yengeç.wav */,
+				AE802BE62BEED73100EBC1EA /* yunus.wav */,
+				AE802BD52BEED1AC00EBC1EA /* flamingo.wav */,
+				AE802BD82BEED1AC00EBC1EA /* kaplan.wav */,
+				AE802BD72BEED1AC00EBC1EA /* kedi.wav */,
+				AE802BD62BEED1AC00EBC1EA /* köpek.wav */,
+				AE802BD92BEED1AC00EBC1EA /* panda.wav */,
+				AE802BD32BEED1AC00EBC1EA /* penguen.wav */,
+				AE802BDA2BEED1AC00EBC1EA /* zebra.wav */,
+				AE802BD42BEED1AC00EBC1EA /* zürafa.wav */,
+				AE802BCE2BEEB7ED00EBC1EA /* aslan.wav */,
+				AE802BCD2BEEB7ED00EBC1EA /* fil.wav */,
+				AE802BCF2BEEB7ED00EBC1EA /* maymun.wav */,
+			);
+			path = Sesler;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -143,6 +226,9 @@
 			dependencies = (
 			);
 			name = HayvanSesleriApp;
+			packageProductDependencies = (
+				AE87465C2BEF68D7003192FA /* GoogleMobileAds */,
+			);
 			productName = HayvanSesleriApp;
 			productReference = AE4E5CA82BEDFD630088B51E /* HayvanSesleriApp.app */;
 			productType = "com.apple.product-type.application";
@@ -215,6 +301,9 @@
 				Base,
 			);
 			mainGroup = AE4E5C9F2BEDFD630088B51E;
+			packageReferences = (
+				AE87465B2BEF68D7003192FA /* XCRemoteSwiftPackageReference "swift-package-manager-google-mobile-ads" */,
+			);
 			productRefGroup = AE4E5CA92BEDFD630088B51E /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -231,8 +320,25 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AE802BDC2BEED1AC00EBC1EA /* zürafa.wav in Resources */,
+				AE802BEC2BEED73100EBC1EA /* yengeç.wav in Resources */,
 				AE4E5CB52BEDFD640088B51E /* Assets.xcassets in Resources */,
+				AE802BD22BEEB7ED00EBC1EA /* maymun.wav in Resources */,
 				AE4E5CB82BEDFD640088B51E /* Base in Resources */,
+				AE802BD12BEEB7ED00EBC1EA /* aslan.wav in Resources */,
+				AE802BE12BEED1AC00EBC1EA /* panda.wav in Resources */,
+				AE802BE02BEED1AC00EBC1EA /* kaplan.wav in Resources */,
+				AE802BDF2BEED1AC00EBC1EA /* kedi.wav in Resources */,
+				AE802BD02BEEB7ED00EBC1EA /* fil.wav in Resources */,
+				AE802BEF2BEEDCDE00EBC1EA /* fare.wav in Resources */,
+				AE802BEB2BEED73100EBC1EA /* yunus.wav in Resources */,
+				AE802BE82BEED73100EBC1EA /* balina.wav in Resources */,
+				AE802BEA2BEED73100EBC1EA /* fok.wav in Resources */,
+				AE802BDB2BEED1AC00EBC1EA /* penguen.wav in Resources */,
+				AE802BDD2BEED1AC00EBC1EA /* flamingo.wav in Resources */,
+				AE802BE22BEED1AC00EBC1EA /* zebra.wav in Resources */,
+				AE802BE92BEED73100EBC1EA /* samur.wav in Resources */,
+				AE802BDE2BEED1AC00EBC1EA /* köpek.wav in Resources */,
 				AE4E5CB32BEDFD630088B51E /* Base in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -258,9 +364,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AE4E5CB02BEDFD630088B51E /* ViewController.swift in Sources */,
 				AE4E5CAC2BEDFD630088B51E /* AppDelegate.swift in Sources */,
+				AE4E5CE02BEDFF540088B51E /* FirstMainViewController.swift in Sources */,
 				AE4E5CAE2BEDFD630088B51E /* SceneDelegate.swift in Sources */,
+				AE4E5CDE2BEDFF2E0088B51E /* SecondMainViewController.swift in Sources */,
+				AE4E5CE22BEE00560088B51E /* MainViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -373,6 +481,7 @@
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
+				OTHER_LDFLAGS = "";
 				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -429,6 +538,7 @@
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
+				OTHER_LDFLAGS = "";
 				SDKROOT = iphoneos;
 				SWIFT_COMPILATION_MODE = wholemodule;
 				VALIDATE_PRODUCT = YES;
@@ -442,20 +552,29 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = J6767NCB7S;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = HayvanSesleriApp/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Hayvan Seslerini Öğreniyorum - ABC";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.education";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UIRequiresFullScreen = YES;
+				INFOPLIST_KEY_UIStatusBarStyle = "";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 1.1;
+				OTHER_LDFLAGS = "";
 				PRODUCT_BUNDLE_IDENTIFIER = com.serdaraltindas.HayvanSesleriApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -469,20 +588,29 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = J6767NCB7S;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = HayvanSesleriApp/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Hayvan Seslerini Öğreniyorum - ABC";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.education";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UIRequiresFullScreen = YES;
+				INFOPLIST_KEY_UIStatusBarStyle = "";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 1.1;
+				OTHER_LDFLAGS = "";
 				PRODUCT_BUNDLE_IDENTIFIER = com.serdaraltindas.HayvanSesleriApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -601,6 +729,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		AE87465B2BEF68D7003192FA /* XCRemoteSwiftPackageReference "swift-package-manager-google-mobile-ads" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/googleads/swift-package-manager-google-mobile-ads.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 11.4.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		AE87465C2BEF68D7003192FA /* GoogleMobileAds */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = AE87465B2BEF68D7003192FA /* XCRemoteSwiftPackageReference "swift-package-manager-google-mobile-ads" */;
+			productName = GoogleMobileAds;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = AE4E5CA02BEDFD630088B51E /* Project object */;
 }
